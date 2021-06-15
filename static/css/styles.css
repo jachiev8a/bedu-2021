@@ -1,0 +1,33 @@
+h1 {
+    color: #cacaca;
+}
+
+h1.red {
+    color: #ff6a6a;
+}
+
+.blue {
+    color: #6a8dff;
+}
+
+button {
+    color: #fff;
+}
+
+body {
+    background-color: #3a3a3a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: rgb(155, 155, 155);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.big-text {
+    font-size: 30px;
+}
+
+p span {
+    color: cyan;
+}
